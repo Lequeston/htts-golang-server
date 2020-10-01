@@ -1,0 +1,6 @@
+./http-server
+http-server
+./node_modules
+node_modules
+./pkg
+pkg
